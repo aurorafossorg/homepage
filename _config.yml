@@ -1,0 +1,7 @@
+title: Aurora Free Open Source Software
+email: contact@aurorafoss.org
+description: Aurora Free Software Collection
+
+markdown: kramdown
+
+exclude: [vendor, "Gemfile", "Gemfile.lock", ".gitlab-ci.yml"]
