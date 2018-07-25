@@ -1,0 +1,20 @@
+<div class="container">
+	<p style="font-size: 24px" class="center">Get in touch!</p>
+	<div class="row center">
+		{% if site.twitter %} <a href="//twitter.com/{{ site.twitter }}"><i style="font-size: 40px; color: #00aced" class="fab fa-twitter"></i></a> {% endif %}
+		{% if site.facebook %} <a href="//facebook.com/{{ site.facebook }}"><i style="font-size: 40px; color: #3b5998" class="fab fa-facebook"></i></a> {% endif %}
+		{% if site.gitlab %} <a href="//gitlab.com/{{ site.gitlab }}"><i style="font-size: 40px; color: #fc6d26" class="fab fa-gitlab"></i></a> {% endif %}
+		{% if site.github %} <a href="//github.com/{{ site.github }}"><i style="font-size: 40px; color: black" class="fab fa-github"></i></a> {% endif %}
+		{% if site.reddit %} <a href="//reddit.com/{{ site.reddit }}"><i style="font-size: 40px; color: #ff4500" class="fab fa-reddit"></i></a> {% endif %}
+		{% if site.discord_url %} <a href="{{ site.discord_url }}"><i style="font-size: 40px; color: #7289DA" class="fab fa-discord"></i></a> {% endif %}
+		<a href="mailto:{{ site.email }}"><i style="font-size: 40px; color: darkgray" class="fas fa-envelope"></i></a>
+	</div>
+</div>
+<div class="footer-copyright">
+	<div class="container center">
+		<span class="left">© 2018 Aurora Free Open Source Software</span><span class="right">Made with <span class="red-text">❤</span> by a bunch of nerds</span>
+	</div>
+</div>
+<div class="container center">
+	<span style="font-size: 12px; color:gray">Kindly hosted by <a href="//gitlab.com">Gitlab</a> and <a href="//tuxfamily.org">TuxFamily</a></span>
+</div>

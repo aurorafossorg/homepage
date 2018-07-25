@@ -2,6 +2,12 @@ title: Aurora Free Open Source Software
 email: contact@aurorafoss.org
 description: Aurora Free Software Collection
 
+twitter: aurorafoss
+facebook: aurorafossorg
+gitlab: aurorafossorg
+github: aurorafossorg
+discord_url: https://discord.gg/Tsb2gpk
+
 markdown: kramdown
 
-exclude: [vendor, "Gemfile", "Gemfile.lock", ".gitlab-ci.yml"]
+exclude: [vendor, "Gemfile", "Gemfile.lock", ".gitlab-ci.yml", "build"]
