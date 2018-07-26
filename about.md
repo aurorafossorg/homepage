@@ -35,7 +35,6 @@ layout: default
 			<li>The freedom to redistribute copies so you can help your neighbor (freedom 2).</li>
 			<li>The freedom to improve the program, and release your improvements to the public, so that the whole community benefits (freedom 3). Access to the source code is a precondition for this.</li>
 		</ol>
-	<p style="font-size: 16px">Developments in technology and network use have made these freedoms even more important now than they were in 1983.</p>
 	</div>
 </div>
 
