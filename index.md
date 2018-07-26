@@ -23,11 +23,7 @@ layout: default
 					<a class="carousel-item" href="//tuxfamily.org/"><img src="/img/logo-sponsor_tuxfamily.png"></a>
 					<a class="carousel-item" href="//migadu.com/"><img src="/img/logo-sponsor_migadu.png"></a>
 				</div>
-				<script>
-					$(document).ready(function(){
-						$('.carousel').carousel();
-					});
-				</script>
+				<script>$(document).ready(function(){$('.carousel').carousel();});</script>
 			</div>
 		</div>
 	</div>
