@@ -18,7 +18,7 @@ layout: default
 		<br>
 		<div class="center">
 			<video class="responsive-video" controls>
-				<source src="https://dl.aurorafoss.org/aurorafoss/pub/assets/TEDxGE2014_Stallman05_LQ.webm" type="video/webm">
+				<source src="https://dl.aurorafoss.org/aurorafoss/pub/assets/aurorafoss.org/TEDxGE2014_Stallman05_LQ.webm" type="video/webm">
 			</video>
 		</div>
 	</div>
