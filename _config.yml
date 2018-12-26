@@ -10,4 +10,6 @@ discord_url: https://discord.gg/Tsb2gpk
 
 markdown: kramdown
 
+theme: fuzzy-theme
+
 exclude: [vendor, "Gemfile", "Gemfile.lock", ".gitlab-ci.yml", "build"]
