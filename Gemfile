@@ -3,6 +3,6 @@ ruby RUBY_VERSION
 
 gem "jekyll"
 
-gem "fuzzy-theme", path: "../core/fuzzy"
+gem "fuzzy-theme"
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
