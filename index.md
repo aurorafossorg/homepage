@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: home
 ---
 
 <div class="section no-pad-bot">
@@ -17,13 +17,15 @@ layout: default
 	<div class="section no-pad-bot">
 		<div class="container" id="greetings">
 			<div class="row center">
-				<h4 class="header col s12 light">Sponsorships</h4>
+				<h4 class="header col s12 light">Supported by</h4>
 				<div class="carousel" style="height: 175px">
-					<a class="carousel-item" href="//gitlab.com/"><img src="/img/logo-sponsor_gitlab.png"></a>
-					<a class="carousel-item" href="//tuxfamily.org/"><img src="/img/logo-sponsor_tuxfamily.png"></a>
-					<a class="carousel-item" href="//migadu.com/"><img src="/img/logo-sponsor_migadu.png"></a>
+					<a class="carousel-item" href="https://gitlab.com/"><img src="/img/logo-sponsor_gitlab.png"></a>
+					<a class="carousel-item" href="https://tuxfamily.org/"><img src="/img/logo-sponsor_tuxfamily.png"></a>
+					<a class="carousel-item" href="https://migadu.com/"><img src="/img/logo-sponsor_migadu.png"></a>
+					<a class="carousel-item" href="https://crowdin.com/"><img src="/img/logo-sponsor_crowdin.png"></a>
 				</div>
 				<script>$(document).ready(function(){$('.carousel').carousel();});</script>
+				<!-- <a href="contributions/"><p class="header col s12 light">All contributions</p></a> -->
 			</div>
 		</div>
 	</div>

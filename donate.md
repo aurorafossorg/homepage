@@ -1,6 +1,9 @@
 ---
 title: Donate
-layout: default
+permalink: donate/
+layout: simple
+
+order: 8
 ---
 
 <div class="section no-pad-bot">

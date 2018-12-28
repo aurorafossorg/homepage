@@ -1,6 +1,9 @@
 ---
 title: About
-layout: default
+permalink: about/
+layout: simple
+
+order: 10
 ---
 
 <br>

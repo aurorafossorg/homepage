@@ -10,6 +10,8 @@ discord_url: https://discord.gg/Tsb2gpk
 
 markdown: kramdown
 
+url: "https://www.aurorafoss.org"
+
 theme: fuzzy-theme
 
 exclude: [vendor, "Gemfile", "Gemfile.lock", ".gitlab-ci.yml", "build"]

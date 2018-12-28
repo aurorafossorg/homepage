@@ -1,6 +1,8 @@
 ---
 title: Team
-layout: default
+layout: simple
+permalink: team/
+order: 7
 ---
 
 <div class="section no-pad-bot">
@@ -12,7 +14,7 @@ layout: default
 	</div>
 </div>
 <div class="container">
-	<link rel="stylesheet" href="css/ihover.min.css">
+	<link rel="stylesheet" href="assets/css/ihover.min.css">
 	<div class="row valign-wrapper">
 		<div class="col s2">
 			<img src="img/avatar-1000px_luis.jpg" alt="Luís Ferreira" style="max-height: 200px" class="circle responsive-img">
