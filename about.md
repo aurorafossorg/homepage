@@ -46,9 +46,9 @@ order: 10
 		<h1 class="header col s12 light">More about this concept</h1>
 		<p class="light grey-text">Free Software Movement and Open Source Initiative</p>
 		<div class="carousel" style="height: 200px">
-			<a class="carousel-item" href="//opensource.org/"><img src="/img/logo-300px_oss.png"></a>
-			<a class="carousel-item" href="//www.fsf.org/"><img src="/img/logo-400px_fsf.png"></a>
-			<a class="carousel-item" href="//www.gnu.org/philosophy/free-sw.html"><img src="/img/logo-about_gnu.png"></a>
+			<a class="carousel-item" href="//opensource.org/"><img src="../img/logo-300px_oss.png"></a>
+			<a class="carousel-item" href="//www.fsf.org/"><img src="../img/logo-400px_fsf.png"></a>
+			<a class="carousel-item" href="//www.gnu.org/philosophy/free-sw.html"><img src="../img/logo-about_gnu.png"></a>
 		</div>
 		<script>$(document).ready(function(){$('.carousel').carousel();});</script>
 	</div>

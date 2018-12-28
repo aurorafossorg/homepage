@@ -27,7 +27,7 @@ order: 8
 			<p style="font-size: 16px">Patreon is a platform for creators to crowdfund their work via monthly donations. Aurora Free Open Source Software launched
 				a Patreon page with the aim to collect enough money each month to hire some of its developers part or full time, starting with its lead developer Luís Ferreira.</p>
 			<a class="patreonImgLink" href="//www.patreon.com/bePatron?c=498670">
-				<img alt="Become a patron!" src="/img/badge-donate_patreon.png" height="37px">
+				<img alt="Become a patron!" src="../img/badge-donate_patreon.png" height="37px">
 			</a>
 		</div>
 	</div>
@@ -36,7 +36,7 @@ order: 8
 			<span class="card-title grey-text text-darken-4">Directly one-time donations via Paypal</span>
 			<p style="font-size: 16px">The simplest way to support us is with a one-time donation. Donations can be made via PayPal account managed by the project founder, Luís Ferreira.</p>
 			<a class="paypalImgLink" href="//www.paypal.me/ljmf00">
-				<img alt="Donate via Paypal" src="/img/badge-donate_paypal.gif">
+				<img alt="Donate via Paypal" src="../img/badge-donate_paypal.gif">
 			</a>
 		</div>
 	</div>

@@ -14,10 +14,10 @@ order: 7
 	</div>
 </div>
 <div class="container">
-	<link rel="stylesheet" href="assets/css/ihover.min.css">
+	<link rel="stylesheet" href="../assets/css/ihover.min.css">
 	<div class="row valign-wrapper">
 		<div class="col s2">
-			<img src="img/avatar-1000px_luis.jpg" alt="Luís Ferreira" style="max-height: 200px" class="circle responsive-img">
+			<img src="../img/avatar-1000px_luis.jpg" alt="Luís Ferreira" style="max-height: 200px" class="circle responsive-img">
 		</div>
 		<div class="col s5">
 			<h4>Luís Ferreira</h4>
@@ -50,12 +50,12 @@ order: 7
 			</span>
 		</div>
 		<div class="col s2">
-			<img src="img/avatar-1000px_subtil.jpg" alt="Ricardo Subtil" style="max-height: 200px" class="circle responsive-img">
+			<img src="../img/avatar-1000px_subtil.jpg" alt="Ricardo Subtil" style="max-height: 200px" class="circle responsive-img">
 		</div>
 	</div>
 	<div class="row valign-wrapper">
 		<div class="col s2">
-			<img src="img/avatar-1000px_lains.jpg" alt="Filipe Laíns" style="max-height: 200px" class="circle responsive-img">
+			<img src="../img/avatar-1000px_lains.jpg" alt="Filipe Laíns" style="max-height: 200px" class="circle responsive-img">
 		</div>
 		<div class="col s5">
 			<h4>Filipe Laíns</h4>
